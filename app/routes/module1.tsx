@@ -318,6 +318,7 @@ export const Component = function Module1(): JSX.Element {
         Changes That May Be Found in People With Dementia
       </Box>
       <br></br>
+      <br></br>
       {/* <Grid container spacing={2} sx={{ flexGrow: 1 }}>
         <Grid xs={16}>
           <Box sx={imgWidth}>
@@ -343,18 +344,18 @@ export const Component = function Module1(): JSX.Element {
       <Grid container spacing={2} sx={imgWidth}>
         <Box>
           <img
-            src="../public/comic/6DSM learn and memory/1. meds/1.jpg"
+            src="../public/comic/6DSM learn and memory/1 meds.jpg"
             width="100%"
             maxWidth="400"
             height="auto"
-            alt="6DSM learn and memory-1"
+            alt="learn and memory deficits in dementia"
           />
         </Box>
         <br />
         <Box>
           <img
-            src="../public/comic/6DSM learn and memory/2. meals/2.jpg"
-            alt="6DSM learn and memory-2"
+            src="../public/comic/6DSM learn and memory/2 meals.jpg"
+            alt="learn and memory deficits in dementia"
             width="100%"
           />
         </Box>
@@ -375,18 +376,18 @@ export const Component = function Module1(): JSX.Element {
       <Grid container spacing={2} sx={imgWidth}>
         <Box>
           <img
-            src="../public/comic/6DSM language/1. comprehension/example 2/reading.png"
+            src="../public/comic/6DSM language/1. comprehension/reading.png"
             width="100%"
             maxWidth="400"
             height="auto"
-            alt="6DSM language comprehension example"
+            alt="reading comprehension deficits in dementia"
           />
         </Box>
         <br />
         <Box>
           <img
-            src="../public/comic/6DSM language/1. comprehension/example 1/1.png"
-            alt="6DSM language comprehension example"
+            src="../public/comic/6DSM language/1. comprehension/conversation.png"
+            alt="listening comprehension deficits in dementia"
             width="100%"
           />
         </Box>
@@ -404,8 +405,8 @@ export const Component = function Module1(): JSX.Element {
       </Grid>
       <Grid container spacing={1} sx={imgWidth}>
         <img
-          src="../public/comic/6DSM language/2. expression/4.png"
-          alt="learning and memory-example 2"
+          src="../public/comic/6DSM language/2. expression/bathroom.png"
+          alt="language expression deficits in dementia"
           width="100%"
         />
 
@@ -423,34 +424,34 @@ export const Component = function Module1(): JSX.Element {
       <Grid container spacing={2} sx={imgWidth}>
         <Box>
           <img
-            src="../public/comic/6DSM perceptual motor/1. comb/1.png"
+            src="../public/comic/6DSM perceptual motor/combing hair.png"
             width="100%"
             maxWidth="400"
             height="auto"
-            alt="perceptual motor 1"
+            alt="perceptual motor deficits in dementia"
           />
         </Box>
         <br />
         <Box>
           <img
-            src="../public/comic/6DSM perceptual motor/2. pouring/2.png"
-            alt="perceptual motor 2"
+            src="../public/comic/6DSM perceptual motor/pouring tea.png"
+            alt="perceptual motor deficits in dementia"
             width="100%"
           />
         </Box>
         <br />
         <Box>
           <img
-            src="../public/comic/6DSM perceptual motor/3. facial recognition/3.png"
-            alt="perceptual motor 3"
+            src="../public/comic/6DSM perceptual motor/facial recognition.png"
+            alt="perceptual motor deficits in dementia"
             width="100%"
           />
         </Box>
         <br />
         <Box>
           <img
-            src="../public/comic/6DSM perceptual motor/4. shaver (phone)/4.png"
-            alt="perceptual motor 4"
+            src="../public/comic/6DSM perceptual motor/shaving.png"
+            alt="perceptual motor deficits in dementia"
             width="100%"
           />
         </Box>
@@ -478,19 +479,19 @@ export const Component = function Module1(): JSX.Element {
       <Grid container spacing={2} sx={imgWidth}>
         <Box>
           <img
-            src="../public/comic/6DSM social cognition/1. fix phone/1.png"
+            src="../public/comic/6DSM social cognition/fix phone.png"
             width="100%"
             maxWidth="400"
             height="auto"
-            alt="social cognition-example 1"
+            alt="problems with taking other's perspective"
           />
         </Box>
 
         <br />
         <Box>
           <img
-            src="../public/comic/6DSM social cognition/2. farting/farting.png"
-            alt="social cognition-example 2"
+            src="../public/comic/6DSM social cognition/farting.png"
+            alt="problems with taking other's perspective"
             width="100%"
           />
         </Box>
@@ -509,18 +510,18 @@ export const Component = function Module1(): JSX.Element {
       <Grid container spacing={2} sx={imgWidth}>
         <Box>
           <img
-            src="../public/comic/6DSM complex attention 2/driving.png"
+            src="../public/comic/6DSM complex attention/driving.png"
             width="100%"
             maxWidth="400"
             height="auto"
-            alt="complex attention-driving"
+            alt="attention deficits in dementia"
           />
         </Box>
         <br />
         <Box>
           <img
-            src="../public/comic/6DSM complex attention 1/cooking.png"
-            alt="complex attention-cooking"
+            src="../public/comic/6DSM complex attention/cooking.png"
+            alt="attention deficits in dementia"
             width="100%"
           />
         </Box>
@@ -546,7 +547,7 @@ export const Component = function Module1(): JSX.Element {
             width="100%"
             maxWidth="400"
             height="auto"
-            alt="execution function example 1"
+            alt="execution function deficits in dementia"
           />
         </Box>
         <br />
@@ -554,7 +555,7 @@ export const Component = function Module1(): JSX.Element {
         <Box>
           <img
             src="../public/comic/6DSM execution function/inhibitory control/snacks.png"
-            alt="execution function example 2"
+            alt="execution function deficits in dementia"
             width="100%"
           />
         </Box>
@@ -713,7 +714,7 @@ export const Component = function Module1(): JSX.Element {
         <Grid container spacing={2} sx={imgWidth}>
           <Box>
             <img
-              src="../public/comic/brain/1.png"
+              src="../public/comic/Alz brain.png"
               width="100%"
               maxWidth="400"
               height="auto"

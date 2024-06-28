@@ -592,7 +592,7 @@ export const Component = function Module2(): JSX.Element {
           </p>
           <Box sx={imgWidth}>
             <img
-              src="../public/comic/sweater/hand knitted sweater.jpg"
+              src="../public/comic/sweater/sweater.jpg"
               alt="hand knitted sweater"
               width="100%"
             />
@@ -604,7 +604,7 @@ export const Component = function Module2(): JSX.Element {
                 fontFamily: "Ysabeau",
                 fontWeight: "500",
                 lineHeight: "1.4",
-                fontSize: "1.05rem",
+                fontSize: "1.23rem",
               }}
             >
               <i>
@@ -618,6 +618,7 @@ export const Component = function Module2(): JSX.Element {
             </figcaption>
           </Box>
 
+          <br />
           <p>
             Nevertheless, some caregivers may think they have little to write.
             In fact, some simply feel they got involved because they had no
@@ -746,11 +747,11 @@ export const Component = function Module2(): JSX.Element {
           <Grid container spacing={2} sx={imgWidth}>
             <Box>
               <img
-                src="../public/comic/thought record-negative/negative thoughts.png"
+                src="../public/comic/thinking style/negative thought.png"
                 width="100%"
                 maxWidth="400"
                 height="auto"
-                alt="thougt record-negative"
+                alt="negative thoughts when awakened"
               />
             </Box>
             <figcaption style={comicText}>
@@ -761,14 +762,15 @@ export const Component = function Module2(): JSX.Element {
 
           <br />
           <br />
+          <br />
           <Grid container spacing={2} sx={imgWidth}>
             <Box>
               <img
-                src="../public/comic/thought record-positive/positive thoughts.png"
+                src="../public/comic/thinking style/positive thought.png"
                 width="100%"
                 maxWidth="400"
                 height="auto"
-                alt="thought record-positive"
+                alt="positive thoughts when awakened"
               />
             </Box>
             <figcaption style={comicText}>
@@ -785,11 +787,11 @@ export const Component = function Module2(): JSX.Element {
           <Grid container spacing={2} sx={imgWidth}>
             <Box>
               <img
-                src="../public/comic/wandering/1. don't/wandering 1.png"
+                src="../public/comic/wandering/1 wandering (dont).png"
                 width="100%"
                 maxWidth="400"
                 height="auto"
-                alt="wandering 1"
+                alt="negative thoughts about wandering"
               />
             </Box>
             <figcaption style={comicText}>
@@ -800,15 +802,16 @@ export const Component = function Module2(): JSX.Element {
           </Grid>
           <br />
           <br />
+          <br />
 
           <Grid container spacing={2} sx={imgWidth}>
             <Box>
               <img
-                src="../public/comic/wandering/2. do/wandering 2.png"
+                src="../public/comic/wandering/2 wandering (do).png"
                 width="100%"
                 maxWidth="400"
                 height="auto"
-                alt="wandering 2"
+                alt="positive thoughts about wandering"
               />
             </Box>
             <figcaption style={comicText}>
@@ -868,7 +871,7 @@ export const Component = function Module2(): JSX.Element {
                 width="100%"
                 maxWidth="400"
                 height="auto"
-                alt="false accusation"
+                alt="false accusation by care-receiver"
               />
             </Box>
             <figcaption style={comicText}>

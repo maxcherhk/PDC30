@@ -332,6 +332,7 @@ export const Component = function Module7(): JSX.Element {
           Here are a few things to consider to make everyday activities more
           comfortable for the care-receiver:
         </p>
+        <br />
         <ol style={{ listStyleType: "none", marginLeft: "-40px" }}>
           <li>
             <Grid container spacing={2} sx={{ flexGrow: 1 }}>
@@ -390,7 +391,7 @@ export const Component = function Module7(): JSX.Element {
               width="100%"
               maxWidth="400"
               height="auto"
-              alt="step by step-wear shoe"
+              alt="step by step wearing shoes"
             />
           </Box>
           <figcaption style={comicText}>
@@ -409,7 +410,7 @@ export const Component = function Module7(): JSX.Element {
               width="100%"
               maxWidth="400"
               height="auto"
-              alt="step by step-brew tea"
+              alt="step by step brewing tea"
             />
           </Box>
           <figcaption style={comicText}>
@@ -583,21 +584,22 @@ export const Component = function Module7(): JSX.Element {
         <p>&nbsp;</p>
         <Grid container spacing={2} sx={imgWidth}>
           <img
-            src="../public/comic/use simpler sentences/1.1 simple sentences combine (dont).png"
+            src="../public/comic/simple sentence/1 simple sentence (dont).png"
             width="100%"
             height="auto"
-            alt="don't"
+            alt="sentences too complex"
           />
         </Grid>
+        <br />
         <br />
 
         <Grid container spacing={2} sx={imgWidth}>
           <img
-            src="../public/comic/use simpler sentences/1.2 simple sentences combine (do).png"
+            src="../public/comic/simple sentence/2 simple sentence (do).png"
             width="100%"
             maxWidth="400"
             height="auto"
-            alt="do"
+            alt="use simple sentences to communicate"
           />
           <figcaption
             style={{
@@ -612,25 +614,25 @@ export const Component = function Module7(): JSX.Element {
           </figcaption>
         </Grid>
         <br />
-
         <br />
         <br />
         <Grid container spacing={2} sx={imgWidth}>
           <img
-            src="../public/comic/limit number of choices/1.1 limit choices combine (dont).png"
+            src="../public/comic/limit choice/1 limit choice (dont).png"
             width="100%"
             height="auto"
-            alt="don't"
+            alt="too many choices confuse care-receiver"
           />
         </Grid>
         <br />
+        <br />
         <Grid container spacing={2} sx={imgWidth}>
           <img
-            src="../public/comic/limit number of choices/1.2 limit choices combine (do).png"
+            src="../public/comic/limit choice/2 limit choice (do).png"
             width="100%"
             maxWidth="400"
             height="auto"
-            alt="do"
+            alt="people with dementia cope better with limited choices"
           />
 
           <figcaption

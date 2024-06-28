@@ -439,10 +439,10 @@ export const Component = function Module10(): JSX.Element {
 
         <Grid container spacing={2} sx={imgWidth}>
           <img
-            src="../public/comic/setup for minimizing accident chance/1.1 furniture combine (dont).png"
+            src="../public/comic/home setup/1.1 furniture color (dont).png"
             width="100%"
             height="auto"
-            alt="setup for minimizing accident chance dont"
+            alt="furniture color bad practice"
           />
         </Grid>
         <br />
@@ -450,8 +450,8 @@ export const Component = function Module10(): JSX.Element {
         <br />
         <Grid container spacing={2} sx={imgWidth}>
           <img
-            src="../public/comic/setup for minimizing accident chance/1.2 furniture combine (do).png"
-            alt="setup for minimizing accident chance do"
+            src="../public/comic/home setup/1.2 furniture color (do).png"
+            alt="furniture color good practice"
             width="100%"
           />
 
@@ -504,10 +504,10 @@ export const Component = function Module10(): JSX.Element {
         <br />
         <Grid container spacing={2} sx={imgWidth}>
           <img
-            src="../public/comic/setup for minimizing accident chance/2.1 furniture combine (dont).png"
+            src="../public/comic/home setup/2.1 furniture label (dont).png"
             width="100%"
             height="auto"
-            alt="learn and memory- example 1"
+            alt="furniture labeling bad practice"
           />
         </Grid>
         <br />
@@ -515,8 +515,8 @@ export const Component = function Module10(): JSX.Element {
         <br />
         <Grid container spacing={2} sx={imgWidth}>
           <img
-            src="../public/comic/setup for minimizing accident chance/2.2 furniture combine (do).png"
-            alt="learning and memory-example 2"
+            src="../public/comic/home setup/2.2 furniture label (do).png"
+            alt="furniture labeling good practice"
             width="100%"
           />
           <figcaption style={comicText}>

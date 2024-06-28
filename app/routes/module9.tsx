@@ -269,7 +269,7 @@ export const Component = function Module9(): JSX.Element {
         <p>&nbsp;</p>
         <Grid container spacing={2} sx={imgWidth}>
           <img
-            src="../public/comic/never argue with patient/1 arguing goes nowhere combine.png"
+            src="../public/comic/never argue/1 arguing goes nowhere.png"
             width="100%"
             maxWidth="400"
             height="auto"
@@ -280,10 +280,9 @@ export const Component = function Module9(): JSX.Element {
         <br />
         <br />
         <br />
-        <br />
         <Grid container spacing={2} sx={imgWidth}>
           <img
-            src="../public/comic/never argue with patient/2/2. take a break/2 take a break combine.png"
+            src="../public/comic/never argue/2 take a break.png"
             width="100%"
             maxWidth="400"
             height="auto"
@@ -294,13 +293,12 @@ export const Component = function Module9(): JSX.Element {
         <br />
         <br />
         <br />
-        <br />
         <Grid container spacing={2} sx={imgWidth}>
           <img
-            src="../public/comic/never argue with patient/3 distraction combine.png"
+            src="../public/comic/never argue/3 distraction.png"
             width="100%"
             height="auto"
-            alt="distraction"
+            alt="distracting the care-receiver"
           />
         </Grid>
         <p>&nbsp;</p>
@@ -452,10 +450,10 @@ export const Component = function Module9(): JSX.Element {
         <br />
         <Grid container spacing={2} sx={imgWidth}>
           <img
-            src="../public/comic/never argue with patient/4. white lies/4 white lies combine.png"
+            src="../public/comic/never argue/4 white lies.png"
             width="100%"
             height="auto"
-            alt="white lies"
+            alt="use white lies if necessary"
           />
         </Grid>
         <br />
