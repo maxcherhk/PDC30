@@ -67,6 +67,12 @@ export const Navigation = memo(function Navigation(
         label="Thought Modification Record"
         icon={<ReceiptLong />}
       />
+      <NavItem
+        path="/card"
+        label="Crying Together, Laughing Together"
+        icon={<ReceiptLong />}
+        
+      />
       <Box sx={{ height: "20" }}></Box>
       <br />
       <Divider />

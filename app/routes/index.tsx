@@ -65,6 +65,7 @@ export const router = createBrowserRouter([
       { path: "postAlbumPage", lazy: () => import("./postAlbumPage") },
       { path: "goodThingsDiary", lazy: () => import("./goodThingsDiary") },
       { path: "diaryPDFPreview", lazy: () => import("./diaryPDFPreview") },
+      { path: "card", lazy: () => import("./card") },
     ],
   },
 ]);
