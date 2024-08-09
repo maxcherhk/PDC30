@@ -592,7 +592,7 @@ export const Component = function Module2(): JSX.Element {
           </p>
           <Box sx={imgWidth}>
             <img
-              src="../public/comic/sweater/sweater.jpg"
+              src="/comic/sweater/sweater.jpg"
               alt="hand knitted sweater"
               width="100%"
             />
@@ -747,7 +747,7 @@ export const Component = function Module2(): JSX.Element {
           <Grid container spacing={2} sx={imgWidth}>
             <Box>
               <img
-                src="../public/comic/thinking style/negative thought.png"
+                src="/comic/thinking style/negative thought.png"
                 width="100%"
                 maxWidth="400"
                 height="auto"
@@ -766,7 +766,7 @@ export const Component = function Module2(): JSX.Element {
           <Grid container spacing={2} sx={imgWidth}>
             <Box>
               <img
-                src="../public/comic/thinking style/positive thought.png"
+                src="/comic/thinking style/positive thought.png"
                 width="100%"
                 maxWidth="400"
                 height="auto"
@@ -787,7 +787,7 @@ export const Component = function Module2(): JSX.Element {
           <Grid container spacing={2} sx={imgWidth}>
             <Box>
               <img
-                src="../public/comic/wandering/1 wandering (dont).png"
+                src="/comic/wandering/1 wandering (dont).png"
                 width="100%"
                 maxWidth="400"
                 height="auto"
@@ -807,7 +807,7 @@ export const Component = function Module2(): JSX.Element {
           <Grid container spacing={2} sx={imgWidth}>
             <Box>
               <img
-                src="../public/comic/wandering/2 wandering (do).png"
+                src="/comic/wandering/2 wandering (do).png"
                 width="100%"
                 maxWidth="400"
                 height="auto"
@@ -867,7 +867,7 @@ export const Component = function Module2(): JSX.Element {
           <Grid container spacing={2} sx={imgWidth}>
             <Box>
               <img
-                src="../public/comic/false accusation/false accusation.png"
+                src="/comic/false accusation/false accusation.png"
                 width="100%"
                 maxWidth="400"
                 height="auto"

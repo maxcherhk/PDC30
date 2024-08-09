@@ -439,7 +439,7 @@ export const Component = function Module10(): JSX.Element {
 
         <Grid container spacing={2} sx={imgWidth}>
           <img
-            src="../public/comic/home setup/1.1 furniture color (dont).png"
+            src="/comic/home setup/1.1 furniture color (dont).png"
             width="100%"
             height="auto"
             alt="furniture color bad practice"
@@ -450,7 +450,7 @@ export const Component = function Module10(): JSX.Element {
         <br />
         <Grid container spacing={2} sx={imgWidth}>
           <img
-            src="../public/comic/home setup/1.2 furniture color (do).png"
+            src="/comic/home setup/1.2 furniture color (do).png"
             alt="furniture color good practice"
             width="100%"
           />
@@ -504,7 +504,7 @@ export const Component = function Module10(): JSX.Element {
         <br />
         <Grid container spacing={2} sx={imgWidth}>
           <img
-            src="../public/comic/home setup/2.1 furniture label (dont).png"
+            src="/comic/home setup/2.1 furniture label (dont).png"
             width="100%"
             height="auto"
             alt="furniture labeling bad practice"
@@ -515,7 +515,7 @@ export const Component = function Module10(): JSX.Element {
         <br />
         <Grid container spacing={2} sx={imgWidth}>
           <img
-            src="../public/comic/home setup/2.2 furniture label (do).png"
+            src="/comic/home setup/2.2 furniture label (do).png"
             alt="furniture labeling good practice"
             width="100%"
           />

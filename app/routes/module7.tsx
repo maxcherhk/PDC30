@@ -387,7 +387,7 @@ export const Component = function Module7(): JSX.Element {
         <Grid container spacing={2} sx={imgWidth}>
           <Box>
             <img
-              src="../public/comic/small steps_wear shoes/steps (shoes).png"
+              src="/comic/small steps_wear shoes/steps (shoes).png"
               width="100%"
               maxWidth="400"
               height="auto"
@@ -406,7 +406,7 @@ export const Component = function Module7(): JSX.Element {
         <Grid container spacing={2} sx={imgWidth}>
           <Box>
             <img
-              src="../public/comic/small steps_brew tea/steps (tea).png"
+              src="/comic/small steps_brew tea/steps (tea).png"
               width="100%"
               maxWidth="400"
               height="auto"
@@ -584,7 +584,7 @@ export const Component = function Module7(): JSX.Element {
         <p>&nbsp;</p>
         <Grid container spacing={2} sx={imgWidth}>
           <img
-            src="../public/comic/simple sentence/1 simple sentence (dont).png"
+            src="/comic/simple sentence/1 simple sentence (dont).png"
             width="100%"
             height="auto"
             alt="sentences too complex"
@@ -595,7 +595,7 @@ export const Component = function Module7(): JSX.Element {
 
         <Grid container spacing={2} sx={imgWidth}>
           <img
-            src="../public/comic/simple sentence/2 simple sentence (do).png"
+            src="/comic/simple sentence/2 simple sentence (do).png"
             width="100%"
             maxWidth="400"
             height="auto"
@@ -618,7 +618,7 @@ export const Component = function Module7(): JSX.Element {
         <br />
         <Grid container spacing={2} sx={imgWidth}>
           <img
-            src="../public/comic/limit choice/1 limit choice (dont).png"
+            src="/comic/limit choice/1 limit choice (dont).png"
             width="100%"
             height="auto"
             alt="too many choices confuse care-receiver"
@@ -628,7 +628,7 @@ export const Component = function Module7(): JSX.Element {
         <br />
         <Grid container spacing={2} sx={imgWidth}>
           <img
-            src="../public/comic/limit choice/2 limit choice (do).png"
+            src="/comic/limit choice/2 limit choice (do).png"
             width="100%"
             maxWidth="400"
             height="auto"

@@ -269,7 +269,7 @@ export const Component = function Module9(): JSX.Element {
         <p>&nbsp;</p>
         <Grid container spacing={2} sx={imgWidth}>
           <img
-            src="../public/comic/never argue/1 arguing goes nowhere.png"
+            src="/comic/never argue/1 arguing goes nowhere.png"
             width="100%"
             maxWidth="400"
             height="auto"
@@ -282,7 +282,7 @@ export const Component = function Module9(): JSX.Element {
         <br />
         <Grid container spacing={2} sx={imgWidth}>
           <img
-            src="../public/comic/never argue/2 take a break.png"
+            src="/comic/never argue/2 take a break.png"
             width="100%"
             maxWidth="400"
             height="auto"
@@ -295,7 +295,7 @@ export const Component = function Module9(): JSX.Element {
         <br />
         <Grid container spacing={2} sx={imgWidth}>
           <img
-            src="../public/comic/never argue/3 distraction.png"
+            src="/comic/never argue/3 distraction.png"
             width="100%"
             height="auto"
             alt="distracting the care-receiver"
@@ -450,7 +450,7 @@ export const Component = function Module9(): JSX.Element {
         <br />
         <Grid container spacing={2} sx={imgWidth}>
           <img
-            src="../public/comic/never argue/4 white lies.png"
+            src="/comic/never argue/4 white lies.png"
             width="100%"
             height="auto"
             alt="use white lies if necessary"
